@@ -22,9 +22,6 @@ body {
   border-radius: 6px;
   box-shadow: 2px 1px 9px -1px rgba(0,0,0,0.35);
   margin: 0 auto;
-  position: relative;
-  top: 50vh;
-  transform: translateY(-50%);
 }
 
 .top-box {
